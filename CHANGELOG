@@ -1,102 +1,57 @@
-# CampusNetDAO – Governance Changelog
+CampusNetDAO — Governance Changelog
 
-**Purpose:**  
-This changelog tracks all official updates to CampusNetDAO’s governance, documentation, and ecosystem.  
-Each entry corresponds to a verified DAO decision or an official framework revision.  
-All updates are timestamped, versioned, and will be mirrored to IPFS for immutability once the DAO token (CNET) is live.
+Version: 1.0
+Maintainer: Governance Circle
+Network: Solana (Devnet → Mainnet transition planned)
+File Type: Markdown (for on-chain and IPFS reference)
 
----
+Purpose
 
-## Version 1.0 — Foundation Release
-**Date:** October 2025  
-**Status:** ✅ Finalized  
-**Summary:** Initial release of DAO governance and foundational documents.
+This document provides a formal, chronological record of all significant changes made to CampusNetDAO’s governance structure, operational policies, and tokenomics.
+Every update, amendment, or revision must be recorded here following official community approval.
 
-**Included Documents:**
-- Whitepaper v1.0  
-- Governance Framework v1.0  
-- Tokenomics Model (CNET, 100M fixed supply, 0 decimals)  
-- Roadmap v1.0  
-- Discord and onboarding system finalized  
-- Treasury and core council structure approved  
+Change Log Index
+Version	Date	Author	Description	Approval Method
+v1.0	YYYY-MM-DD	Core Team	Initial release of Governance Framework, Whitepaper, and Token creation (CNET).	Founding Council Consensus
+v1.1	TBD	Governance Circle	Addition of Community Activation Roadmap and Transition Policy.	DAO Snapshot Vote
+v1.2	TBD	Core Contributors	Implementation of new governance roles (Work-to-Earn Circle).	DAO Vote
+v1.3	TBD	Governance Circle	Token supply and vesting structure review.	DAO Vote
+v1.4	TBD	Technical Circle	Integration of audit outcomes into governance policies.	Core Approval
+v1.5	TBD	All Members	Migration to mainnet, IPFS document backup initiated.	DAO Majority Vote
+Governance Structure Changes
+Date	Change	Impact
+TBD	Introduction of tier-based governance (Founding, Core, General)	Clarified voting rights and responsibilities
+TBD	Launch of Work-to-Earn contribution system	Enabled transparent task-based participation
+TBD	Addition of Membership Transition Policy	Provided framework for post-graduate involvement
+Tokenomics Revisions
+Date	Change	Reason
+TBD	Total Supply fixed at 100,000,000 CNET	Ensures long-term token stability
+TBD	Decimals set to 0	Simplifies accounting and distribution
+TBD	Reserve allocations locked	Prevents dilution and maintains credibility
+Governance Framework Updates
+Date	Section	Summary
+TBD	Membership & Transition Policy	Defined criteria for alumni and continuing participation
+TBD	Proposal Lifecycle	Standardized submission, voting, and implementation process
+TBD	Council Expansion	Introduced Contributor Circle oversight for Work-to-Earn
+Technical Integrations
+Date	Integration	Description
+TBD	Snapshot	Primary governance voting system
+TBD	Collab.Land	Token-gated Discord authentication
+TBD	Wonderverse	Automated task and bounty management
+TBD	IPFS	Document immutability and decentralized backup
+TBD	Solana SPL	Token and DAO infrastructure layer
+Versioning Rules
 
-**Key Governance Decisions:**
-- DAO created as a **student-empowerment ecosystem** with long-term sustainability.  
-- Membership policy includes **students and verified alumni**.  
-- Core Council to serve 12-month term before DAO-controlled election transition.  
-- “No mint authority” confirmed — supply permanently capped at 100M CNET.  
-- Partnership alignment with universities, education DAOs, and Web3 accelerators.
+Governance documents follow semantic versioning (1.0 → 1.1 = minor; 1.0 → 2.0 = major).
 
----
+Each approved governance proposal must result in a new changelog entry.
 
-## Version 1.1 — Activation Phase *(Upcoming)*
-**ETA:** Q1 2026  
-**Status:** ⏳ Planned  
-**Focus:** Automation, rewards, and participation.
+The changelog.md file must be mirrored to IPFS after each governance cycle (monthly or quarterly).
 
-**Planned Inclusions:**
-- Dework/Wonderverse integration for bounty-based tasking  
-- Collab.Land token-gated Discord roles  
-- DAO voting enabled via Snapshot  
-- Monthly DAO Report Template release  
-- Treasury transparency page on website (read-only ledger)  
-
-**Expected Governance Votes:**
-- 🗳 DAO vote on first CampusNet-funded student projects  
-- 🗳 Vote to approve DAO contributor reward tiers  
-- 🗳 Proposal to expand “DAO Member” eligibility to graduates up to 2 years post-school
-
----
-
-## Version 1.2 — Governance Expansion *(Proposed)*
-**ETA:** Q3 2026  
-**Status:** 🧭 Concept Stage  
-**Focus:** Infrastructure scaling, DAO network, education layer.
-
-**Proposed Additions:**
-- Governance Portal UI/UX build  
-- Guild charter templates (Development, Design, Education, Partnerships)  
-- First DAO Education Grants round  
-- DAO Report System → Automated via IPFS timestamp  
-- DEX listing discussions (if approved via GCP)
-
----
-
-## Version 2.0 — Full DAO Autonomy *(Target)*
-**ETA:** 2027  
-**Status:** 🔒 Long-Term Target  
-**Focus:** Full decentralization and DAO self-governance.
-
-**Planned Outcomes:**
-- Core Council dissolution (authority → DAO contracts)  
-- Smart-contract automation for treasury operations  
-- DAO AI assistant for proposal writing and onboarding  
-- Multi-campus expansion (10+ verified DAOs)  
-- Immutable on-chain record of all governance and proposal logs  
-
----
-
-## Governance File Management
-- All finalized versions will be pinned to **IPFS** using the DAO’s registry key.  
-- File naming convention:  
-  - `governance_vX.X.md`  
-  - `roadmap_vX.X.md`  
-  - `whitepaper_vX.X.pdf`  
-- IPFS hashes and timestamps will be publicly listed in `/records/IPFS_LOG.md`.
-
----
-
-## Verification Signatures
-| Version | Verified By | Role | Date |
-|----------|--------------|------|------|
-| v1.0 | Core Council | Governance Authority | Oct 2025 |
-| v1.1 | Pending | DAO Members | Q1 2026 |
-| v1.2 | Pending | DAO Members | Q3 2026 |
-| v2.0 | DAO Smart Contract | Autonomous | 2027 |
-
----
-
-## Notes
-- All edits must be proposed through the **Governance Change Proposal (GCP)** process.  
-- Each GCP must reference the file and section being altered.  
-- Approved changes are merged and reversion-protected once recorded to IPFS.  
+IPFS Mirror Registry (To be completed post-launch)
+Document	CID	Upload Date
+Governance Framework	pending	pending
+Whitepaper	pending	pending
+Roadmap	pending	pending
+README	pending	pending
+Changelog	pending	pending

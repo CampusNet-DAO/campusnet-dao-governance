@@ -1,0 +1,86 @@
+ CampusNetDAO Proposal Template
+
+Version: 1.0
+Status: Draft ☐ / Under Review ☐ / Approved ☐ / Rejected ☐
+
+ 1. Proposal Summary
+
+Provide a concise summary (2–3 sentences) of what this proposal aims to achieve.
+Example:
+This proposal seeks to launch the CampusNetDAO Mentorship Program, connecting alumni and students through a token-based reward structure.
+
+ 2. Motivation
+
+Explain why this proposal matters to the DAO.
+What issue, opportunity, or improvement does it address?
+Example:
+Many students lack access to practical mentorship and career guidance in Web3. This proposal creates an incentive-backed system to close that gap.
+
+ 3. Proposed Action Plan
+
+Detail the exact steps required to implement this proposal.
+Include responsible teams, estimated timeframes, and necessary resources.
+
+Example:
+
+Step	Description	Responsible Unit	Duration
+1	Design program structure	Education Circle	2 weeks
+2	Recruit mentors	Community Circle	3 weeks
+3	Launch pilot	Core Contributors	1 month
+4. Budget & Token Allocation
+
+Specify funding requirements (if any).
+Include token amounts, payout schedules, and escrow plans.
+
+Example:
+
+Category	Amount (CNET)	Notes
+Mentor Incentives	25,000	Vesting over 3 months
+Program Management	10,000	Core contributors
+Marketing & Awareness	5,000	PR & media design
+5. Expected Outcomes & KPIs
+
+Define measurable goals to assess proposal success.
+
+Example KPIs:
+
+50+ student participants onboarded
+
+20 verified alumni mentors registered
+
+≥80% positive feedback rating
+
+Transparent payout tracking via Work-to-Earn dashboard
+
+ 6. Governance Impact
+
+Describe how this aligns with DAO principles and token-holder interests.
+Indicate which governance tier (Founding Council, Core Contributors, or General Members) oversees this execution.
+
+ 7. Voting Parameters
+Parameter	Value
+Voting Platform	Snapshot / Discord Poll
+Minimum Quorum	15% of circulating CNET
+Required Approval	60% majority
+Voting Duration	72 hours
+ 8. Implementation Plan
+
+Outline who will execute it post-approval and how accountability will be ensured.
+Example:
+The Core Contributor Circle will oversee rollout, with weekly progress updates published in the DAO changelog.
+
+ 9. References & Links
+
+Include any supporting docs, mockups, or research materials.
+Example:
+CampusNetDAO Roadmap v1.0
+
+Governance Framework
+
+ 10. Changelog
+Version	Date	Author	Change
+1.0	YYYY-MM-DD	[Your Name/Handle]	Initial draft submission
+✅ Submission
+
+Submit this proposal through the official #🗳︱proposals Discord channel or the CampusNetDAO Snapshot Space once available.
+Each proposal must include this template in full, with supporting files if relevant.

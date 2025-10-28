@@ -1,0 +1,102 @@
+# CampusNetDAO – Governance Changelog
+
+**Purpose:**  
+This changelog tracks all official updates to CampusNetDAO’s governance, documentation, and ecosystem.  
+Each entry corresponds to a verified DAO decision or an official framework revision.  
+All updates are timestamped, versioned, and will be mirrored to IPFS for immutability once the DAO token (CNET) is live.
+
+---
+
+## Version 1.0 — Foundation Release
+**Date:** October 2025  
+**Status:** ✅ Finalized  
+**Summary:** Initial release of DAO governance and foundational documents.
+
+**Included Documents:**
+- Whitepaper v1.0  
+- Governance Framework v1.0  
+- Tokenomics Model (CNET, 100M fixed supply, 0 decimals)  
+- Roadmap v1.0  
+- Discord and onboarding system finalized  
+- Treasury and core council structure approved  
+
+**Key Governance Decisions:**
+- DAO created as a **student-empowerment ecosystem** with long-term sustainability.  
+- Membership policy includes **students and verified alumni**.  
+- Core Council to serve 12-month term before DAO-controlled election transition.  
+- “No mint authority” confirmed — supply permanently capped at 100M CNET.  
+- Partnership alignment with universities, education DAOs, and Web3 accelerators.
+
+---
+
+## Version 1.1 — Activation Phase *(Upcoming)*
+**ETA:** Q1 2026  
+**Status:** ⏳ Planned  
+**Focus:** Automation, rewards, and participation.
+
+**Planned Inclusions:**
+- Dework/Wonderverse integration for bounty-based tasking  
+- Collab.Land token-gated Discord roles  
+- DAO voting enabled via Snapshot  
+- Monthly DAO Report Template release  
+- Treasury transparency page on website (read-only ledger)  
+
+**Expected Governance Votes:**
+- 🗳 DAO vote on first CampusNet-funded student projects  
+- 🗳 Vote to approve DAO contributor reward tiers  
+- 🗳 Proposal to expand “DAO Member” eligibility to graduates up to 2 years post-school
+
+---
+
+## Version 1.2 — Governance Expansion *(Proposed)*
+**ETA:** Q3 2026  
+**Status:** 🧭 Concept Stage  
+**Focus:** Infrastructure scaling, DAO network, education layer.
+
+**Proposed Additions:**
+- Governance Portal UI/UX build  
+- Guild charter templates (Development, Design, Education, Partnerships)  
+- First DAO Education Grants round  
+- DAO Report System → Automated via IPFS timestamp  
+- DEX listing discussions (if approved via GCP)
+
+---
+
+## Version 2.0 — Full DAO Autonomy *(Target)*
+**ETA:** 2027  
+**Status:** 🔒 Long-Term Target  
+**Focus:** Full decentralization and DAO self-governance.
+
+**Planned Outcomes:**
+- Core Council dissolution (authority → DAO contracts)  
+- Smart-contract automation for treasury operations  
+- DAO AI assistant for proposal writing and onboarding  
+- Multi-campus expansion (10+ verified DAOs)  
+- Immutable on-chain record of all governance and proposal logs  
+
+---
+
+## Governance File Management
+- All finalized versions will be pinned to **IPFS** using the DAO’s registry key.  
+- File naming convention:  
+  - `governance_vX.X.md`  
+  - `roadmap_vX.X.md`  
+  - `whitepaper_vX.X.pdf`  
+- IPFS hashes and timestamps will be publicly listed in `/records/IPFS_LOG.md`.
+
+---
+
+## Verification Signatures
+| Version | Verified By | Role | Date |
+|----------|--------------|------|------|
+| v1.0 | Core Council | Governance Authority | Oct 2025 |
+| v1.1 | Pending | DAO Members | Q1 2026 |
+| v1.2 | Pending | DAO Members | Q3 2026 |
+| v2.0 | DAO Smart Contract | Autonomous | 2027 |
+
+---
+
+## Notes
+- All edits must be proposed through the **Governance Change Proposal (GCP)** process.  
+- Each GCP must reference the file and section being altered.  
+- Approved changes are merged and reversion-protected once recorded to IPFS.  

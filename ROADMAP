@@ -1,0 +1,97 @@
+# CampusNetDAO – Future Roadmap (v1.0 → v2.0)
+
+## Overview
+The CampusNetDAO Roadmap is a living document tracking the DAO’s evolution from initial governance formation (v1.0) to full decentralization (v2.0).  
+It outlines every core milestone across governance, automation, community, and ecosystem growth.  
+All updates to this roadmap must be proposed through a **Governance Change Proposal (GCP)** and approved by token holders.
+
+---
+
+## Phase 1 – Foundation (Q4 2025)
+**Status:** ✅ *In Progress*  
+**Objective:** Establish governance infrastructure, brand identity, and tokenomics base.
+
+**Key Deliverables:**
+- ✅ Whitepaper and Governance Framework v1.0  
+- ✅ CNT Token (100M Total Supply, Fixed)  
+- ✅ DAO Discord Launch & Onboarding Roles  
+- ✅ Creation of CampusNetDAO Treasury (Multi-sig setup)  
+- ✅ Partner Outreach (University clubs, Web3 projects)
+
+---
+
+## Phase 2 – Activation (Q1 2026)
+**Objective:** Transition from static structure to active participation through automation and reward mechanisms.
+
+**Milestones:**
+- Integration of **Dework/Wonderverse** for work-to-earn tasks  
+- Launch of **Collab.Land** token-gated Discord roles  
+- Start of **Campus Work Programs** (DAO-funded student projects)  
+- Publish **Monthly DAO Reports** (Treasury + Proposal Summary)  
+- Expand community to **1,000+ verified wallets**
+
+---
+
+## Phase 3 – Governance Expansion (Q2 2026)
+**Objective:** Empower token holders and guilds to govern directly.
+
+**Milestones:**
+- DAO-wide voting via **Snapshot**  
+- Establishment of **Guild Charters** (Development, Design, Education, Partnerships)  
+- Launch **Campus DAO Voting Portal** (UI/UX web app)  
+- Treasury automation via **Gnosis Safe** + DAO smart contract  
+- Community-led proposal funding
+
+---
+
+## Phase 4 – Ecosystem Scaling (Q3 2026)
+**Objective:** Extend DAO influence across campuses and external Web3 communities.
+
+**Milestones:**
+- Inter-campus partnership rollout (multi-university DAO network)  
+- Launch of **CampusNet Learning Hub** (decentralized knowledge base)  
+- Token listing on DEX (if approved by DAO)  
+- First external partnership with a Web3 education or NFT protocol  
+- Begin quarterly **DAO Impact Reports** (on-chain + PDF)
+
+---
+
+## Phase 5 – Immutable Governance (Q4 2026)
+**Objective:** Secure DAO’s history and governance permanence.
+
+**Milestones:**
+- Upload all governance docs, proposals, and logs to **IPFS**  
+- Introduce **Version Control System (DAO-Git)** for governance changelogs  
+- Establish **Archival Committee** to verify records and IPFS hashes  
+- Begin planning **v2.0 Constitution Rewrite** (full decentralization)
+
+---
+
+## Phase 6 – v2.0 Full DAO Autonomy (2027)
+**Objective:** Transition DAO to a fully autonomous, student-led ecosystem.
+
+**Milestones:**
+- **Core Council dissolution** (oversight transferred to DAO)  
+- All treasury and governance functions become **smart contract–controlled**  
+- **Dynamic Proposal Templates (AI-assisted)** for easier governance participation  
+- Expansion to **10+ universities** and global CampusNet Chapters  
+- Implementation of **Cross-DAO partnerships** (education, innovation, startup funding)
+
+---
+
+## Maintenance & Updates
+- This roadmap is version-controlled under the **CampusNetDAO Governance Framework**.  
+- All future versions (v1.1, v1.2, etc.) will be:  
+  - **Signed by DAO Council** (temporary)  
+  - **Uploaded to IPFS** for immutability  
+  - **Timestamped via on-chain proposal logs**
+
+---
+
+## Change Log
+| Version | Date | Description | Status |
+|----------|------|--------------|--------|
+| **v1.0** | Oct 2025 | Initial roadmap release aligned with DAO formation. | ✅ |
+| **v1.1 (planned)** | Q1 2026 | Introduce Education Grants + Work Automation. | ⏳ |
+| **v1.2 (future)** | Q3 2026 | DAO-wide scaling and governance portal release. | 🧭 |
+| **v2.0 (target)** | 2027 | Full decentralization and global expansion. | 🔒 |

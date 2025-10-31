@@ -1,0 +1,90 @@
+###############################################
+# CampusNetDAO Governance Registry Config v1.0
+# File: governance_registry_config.toml
+# Purpose: Deployment & runtime configuration
+# Last Updated: October 2025
+###############################################
+
+[network]
+# Solana cluster endpoint
+cluster = "devnet"
+rpc_url = "https://rpc.helius.xyz/?api-key=demo"
+commitment = "confirmed"
+
+[program]
+# Anchor program identifiers
+program_name = "campusnetdao_governance_registry"
+program_id = "CNetGovReg1111111111111111111111111111111111111"
+
+# Optional upgrade authority (multisig controlled by DAO)
+upgrade_authority = "3of5MultisigCampusDAO1111111111111111111111"
+
+[authority]
+# Primary admin (DAO-controlled governance program)
+admin_pubkey = "CampusDAOAdmin11111111111111111111111111111111"
+
+# Council multisig members
+council_multisig = [
+    "CouncilMemberPubkey1XXXXXXXXXXXXXXX",
+    "CouncilMemberPubkey2XXXXXXXXXXXXXXX",
+    "CouncilMemberPubkey3XXXXXXXXXXXXXXX"
+]
+
+[registry]
+# IPFS + metadata registry configuration
+storage_provider = "ipfs"
+ipfs_gateway = "https://ipfs.io/ipfs/"
+pinning_service = "pinata"
+pinata_api_key = "YOUR_PINATA_API_KEY"
+pinata_api_secret = "YOUR_PINATA_SECRET"
+
+# SHA256 hash verification enforcement
+verify_integrity = true
+
+# Number of council verifiers required for document finalization
+min_verifiers_required = 2
+
+[logging]
+# Levels: error, warn, info, debug, trace
+log_level = "info"
+
+# Enable on-chain event subscriptions for audit tracking
+enable_event_feed = true
+event_feed_url = "wss://api.devnet.solana.com"
+
+[governance]
+# Link to governance proposal platform (Realms/Snapshot)
+proposal_system = "Realms"
+proposal_space = "campusnetdao"
+
+# Minimum proposal ID format
+proposal_id_prefix = "CNET-PROP-"
+auto_sync_proposals = true
+
+[deployment]
+# File output directories
+build_dir = "./target/deploy"
+idl_output = "./target/idl"
+
+# Registry version mapping file (auto-updated by CI)
+version_file = "./registry_versions.json"
+
+# Enable automated IPFS backup upon deployment
+auto_backup_to_ipfs = true
+ipfs_backup_dir = "./ipfs_backups"
+
+[security]
+# Enforce admin-signed upgrades only
+require_signed_upgrades = true
+
+# Optional hash whitelist for verified documents
+trusted_hashes = [
+    "SHA256:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+]
+
+# Optional document freeze enforcement
+require_freeze_before_update = true
+
+###############################################
+# End of File
+###############################################

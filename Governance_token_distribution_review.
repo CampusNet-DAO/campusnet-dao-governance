@@ -1,0 +1,100 @@
+# Governance Proposal — CNET Token Distribution Review  
+**Version:** 1.0  
+**Status:** ☐ Draft / ☐ Under Review / ☐ Approved / ☐ Rejected  
+**Author:** Governance Circle  
+**Date:** YYYY-MM-DD  
+
+---
+
+## 1. Proposal Summary  
+This proposal initiates a **comprehensive review and optimization** of the $CNET token distribution structure to ensure alignment with CampusNetDAO’s long-term governance and community growth objectives.
+
+---
+
+## 2. Motivation  
+The current token allocation (100,000,000 CNET on Solana Devnet) served as a proof-of-concept phase.  
+As the DAO transitions toward mainnet and real-world operations, it’s critical to rebalance allocations between governance, community rewards, partnerships, and the treasury.  
+
+This review ensures:
+- Governance power remains decentralized.  
+- Long-term sustainability of incentive programs.  
+- Transparent, fair token vesting for contributors.
+
+---
+
+## 3. Proposed Action Plan  
+
+| Step | Description | Responsible Unit | Duration |
+|------|--------------|------------------|-----------|
+| 1 | Conduct full audit of existing token distribution and usage | Governance Circle | 1 week |
+| 2 | Collect feedback from all DAO circles on allocation needs | All Circles | 1 week |
+| 3 | Draft and publish new tokenomics framework | Treasury & Governance Circles | 2 weeks |
+| 4 | Community voting on updated allocation | Governance Circle | 3 days |
+| 5 | Implement new distribution parameters on-chain (Devnet → Mainnet) | Core Devs | 1 week |
+
+---
+
+## 4. Budget & Token Allocation  
+
+| Category | Amount (CNET) | Notes |
+|-----------|---------------|-------|
+| Governance Operations | 5,000 | Coordination, auditing, and documentation |
+| Technical Audit Bounty | 7,000 | For community-led tokenomics review |
+| Community Feedback Incentives | 3,000 | Reward DAO members contributing ideas |
+| Publication & Transparency Costs | 2,000 | Dashboard + public record updates |
+| **Total** | **17,000 CNET** | Governance Review Budget |
+
+---
+
+## 5. Expected Outcomes & KPIs  
+- New tokenomics model with clear allocations and vesting schedules.  
+- Minimum 20 active members contribute governance feedback.  
+- Transparent DAO token dashboard published on GitHub.  
+- Increased voter participation (≥25% of circulating CNET).  
+
+---
+
+## 6. Governance Impact  
+This proposal enhances DAO legitimacy by aligning token governance with real participation rather than central control.  
+It reaffirms CampusNetDAO’s founding value — **students govern, not gatekeepers**.  
+Oversight: **Governance Circle**, validated by **Core Contributors**.
+
+---
+
+## 7. Voting Parameters  
+
+| Parameter | Value |
+|------------|--------|
+| Voting Platform | Snapshot / Discord Poll |
+| Minimum Quorum | 20% of circulating CNET |
+| Required Approval | 66% majority |
+| Voting Duration | 96 hours |
+
+---
+
+## 8. Implementation Plan  
+Upon approval, the Governance Circle will execute a phased rollout of the new distribution framework.  
+All adjustments and vesting logs will be made public in the DAO changelog.  
+Final mainnet token migration will only occur after the DAO-wide vote confirms readiness.
+
+---
+
+## 9. References & Links  
+- [CampusNetDAO Treasury Policy](../CampusNetDAO%20Treasury%20Policy.md)  
+- [Governance Framework v1.0](../CampusNetDAO%20Governance%20Framework.md)  
+- [CNET Tokenomics Overview](../CNET_Tokenomics.md)  
+- [Snapshot Space (Coming Soon)](https://snapshot.org/#/campusnetdao)  
+
+---
+
+## 10. Changelog  
+
+| Version | Date | Author | Change |
+|----------|------|--------|--------|
+| 1.0 | YYYY-MM-DD | Governance Circle | Initial draft submission |
+
+---
+
+✅ **Submission**  
+Submit via `#🗳︱proposals` or Snapshot.  
+Final execution tracked under “Governance Updates” in the DAO changelog.
